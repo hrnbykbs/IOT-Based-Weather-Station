@@ -22,3 +22,9 @@ B. Required Components: Software <br>
 ![applets](https://user-images.githubusercontent.com/28812496/108755413-46c7c080-7558-11eb-9d74-ebe050a4eb05.png)
 
 # Results
+# Temperature Chart and Gauge
+![sicaklikverisi](https://user-images.githubusercontent.com/28812496/108756219-45e35e80-7559-11eb-92e7-a1d84aa39146.png)
+# Humidity Chart and Gauge
+![nemverisi](https://user-images.githubusercontent.com/28812496/108756294-5e537900-7559-11eb-96ce-6f7cfaa5df39.png)
+# Air Pressure Chart and Numeric Display
+![basincverisi](https://user-images.githubusercontent.com/28812496/108756382-7c20de00-7559-11eb-8a79-cbefdc6ab37f.png)
