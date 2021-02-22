@@ -18,4 +18,7 @@ B. Required Components: Software <br>
 # Circuit Setup
 ![circuitSetupWeatherStation](https://user-images.githubusercontent.com/28812496/108750610-49bfb280-7552-11eb-9306-263b15fccae0.png)
 
+# IFTTT Applets
+![applets](https://user-images.githubusercontent.com/28812496/108755413-46c7c080-7558-11eb-9d74-ebe050a4eb05.png)
+
 # Results
