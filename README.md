@@ -7,7 +7,7 @@ A. Required Components: Hardware <br>
 2- Temperature and Humidity Sensor (DHT11) <br>
 3- Air Pressure Sensor (BMP180) <br>
 4- Breadboard <br>
-5- Jumper Cables <br> <br>
+5- Jumper Cables <br>
 
 B. Required Components: Software <br>
 1- Arduino IDE <br>
