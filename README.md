@@ -2,7 +2,7 @@
 This project was made for the realization of an IOT based weather station. Values such as temperature, humidity and air pressure are measured and values are determined. If the situation is far below or far above the average limit; Information about this situation is made to people by e-mail.
 
 # Application Setup
-A. Required Components: Hardware
+A. Required Components: Hardware<br>
 1- NodeMCU Lolin Esp8266 Wifi Module
 2- Temperature and Humidity Sensor (DHT11)
 3- Air Pressure Sensor (BMP180)
