@@ -14,18 +14,17 @@ B. Required Components: Software <br>
 2- Accessible Wifi <br>
 3- ThingSpeak (Cloud Environment) <br>
 4- IFTTT (Trigger Service) <br>
-#deneme123
-![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTWeatherStation/applets.png?raw=true)
+
 # Circuit Setup
-![circuitSetupWeatherStation](https://user-images.githubusercontent.com/28812496/108750610-49bfb280-7552-11eb-9306-263b15fccae0.png)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTWeatherStation/circuitSetupWeatherStation.png?raw=true)
 
 # IFTTT Applets
-![applets](https://user-images.githubusercontent.com/28812496/108755413-46c7c080-7558-11eb-9d74-ebe050a4eb05.png)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTWeatherStation/applets.png?raw=true)
 
 # Results
 # Temperature Chart and Gauge
-![sicaklikverisi](https://user-images.githubusercontent.com/28812496/108756219-45e35e80-7559-11eb-92e7-a1d84aa39146.png)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTWeatherStation/sicaklikverisi.png?raw=true)
 # Humidity Chart and Gauge
-![nemverisi](https://user-images.githubusercontent.com/28812496/108756294-5e537900-7559-11eb-96ce-6f7cfaa5df39.png)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTWeatherStation/nemverisi.png?raw=true)
 # Air Pressure Chart and Numeric Display
-![basincverisi](https://user-images.githubusercontent.com/28812496/108756382-7c20de00-7559-11eb-8a79-cbefdc6ab37f.png)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTWeatherStation/basincverisi.png?raw=true)
