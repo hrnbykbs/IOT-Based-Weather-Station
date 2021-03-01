@@ -15,7 +15,7 @@ B. Required Components: Software <br>
 3- ThingSpeak (Cloud Environment) <br>
 4- IFTTT (Trigger Service) <br>
 #deneme123
-![alt text](https://github.com/hrnbykbs/AllPictures/tree/main/IOTWeatherStation/applets.png?raw=true)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTWeatherStation/applets.png?raw=true)
 # Circuit Setup
 ![circuitSetupWeatherStation](https://user-images.githubusercontent.com/28812496/108750610-49bfb280-7552-11eb-9306-263b15fccae0.png)
 
