@@ -22,9 +22,28 @@ B. Required Components: Software <br>
 ![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTWeatherStation/applets.png?raw=true)
 
 # Results
-# Temperature Chart and Gauge
+# A. Sensors Data Read and Data Sent to ThingSpeak
+![alt text]()
+# B. Display of Data Sent to ThingSpeak
+# 1- Temperature Chart and Gauge
 ![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTWeatherStation/sicaklikverisi.png?raw=true)
-# Humidity Chart and Gauge
+# 2- Humidity Chart and Gauge
 ![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTWeatherStation/nemverisi.png?raw=true)
-# Air Pressure Chart and Numeric Display
+# 3- Air Pressure Chart and Numeric Display
 ![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTWeatherStation/basincverisi.png?raw=true)
+
+# C. IFTTT Applets
+# 1- High Temperature Applet
+# 2- Low Temperature Applet
+
+# D. ThingSpeak ThingHTTP Protocols
+# 1- High Temperature ThingHTTP Protocol
+# 2- Low Temperature ThingHTTP Protocol
+
+# E. ThingSpeak React Protocols
+# 1- High Temperature React
+# 2- Low Temperature React
+
+# F. Sending Mail
+# 1- High Temperature Mail
+# 2- Low Temperature Mail
