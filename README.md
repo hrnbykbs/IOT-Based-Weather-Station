@@ -24,13 +24,13 @@ B. Required Components: Software <br>
 
 # B. Display of Data Sent to ThingSpeak
 # 1- Temperature Chart and Gauge
-![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTBasedWeatherStation/sicaklikverisi.png?raw=true)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTBasedWeatherStation/temperatureData.png?raw=true)
 
 # 2- Humidity Chart and Gauge
-![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTBasedWeatherStation/nemverisi.png?raw=true)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTBasedWeatherStation/humidityData.png?raw=true)
 
 # 3- Air Pressure Chart and Numeric Display
-![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTBasedWeatherStation/basincverisi.png?raw=true)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTBasedWeatherStation/airPressureData.png?raw=true)
 
 # C. IFTTT Applets
 # 1- High Temperature Applet
